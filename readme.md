@@ -1,4 +1,4 @@
-# Internship Task 2
+# Training Task 2
 
 ## 📌 Overview
 This repository contains the implementation for **Internship Task 2**, assigned as part of the internship training program.  
